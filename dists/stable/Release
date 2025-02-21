@@ -1,19 +1,19 @@
 Origin: 21card
 Label: 21card
 Codename: stable
-Date: Fri, 21 Feb 2025 15:11:18 UTC
+Date: Fri, 21 Feb 2025 15:27:29 UTC
 Architectures: amd64
 Components: main
 Description: My 21 card APT repo
 MD5Sum:
- 706af45ed818b57f854ec7dbcc6551ed 404 main/binary-amd64/Packages
- c921eb4712a859f89b062a1057420502 316 main/binary-amd64/Packages.gz
+ ae04b3347e569d251c3f6d37bb88b979 404 main/binary-amd64/Packages
+ aba4796e593a789cf7f068c11aa581ab 316 main/binary-amd64/Packages.gz
  99eaec997568389c3ea6463721315877 98 main/binary-amd64/Release
 SHA1:
- ccd866516d40e352900cdf35dc184a7eabaea91c 404 main/binary-amd64/Packages
- 8913a414bc50edd20e5bc1ee7116d39af4a7fdfc 316 main/binary-amd64/Packages.gz
+ b9e332dcb2c9433aea3f7861804300d419ce342e 404 main/binary-amd64/Packages
+ 21b17d1a38c4a5aeb321d454e7a72de9f370ac8f 316 main/binary-amd64/Packages.gz
  80e063fd2674126c6a8db7aed05df14452e11ba3 98 main/binary-amd64/Release
 SHA256:
- bb4e3ec3dde5091928788e4c15cd706957fdc5cb364353952cd087c689c528d6 404 main/binary-amd64/Packages
- 3ba1af3a86de372e108c1a94e4fb6ec9181c614178a119703889a8fa45a295ad 316 main/binary-amd64/Packages.gz
+ 05ae6f3996e65cb3979a140b476aa4aaf402049297d7448b03c5f43ff79d3700 404 main/binary-amd64/Packages
+ 4a6266d27fb8f2c806b8377fbf38439d89bf28998c9beb79bc24b84479086302 316 main/binary-amd64/Packages.gz
  6d061636288f7a2d57dac3d061760637e29c5642ffb53cb54f65e48438c78142 98 main/binary-amd64/Release

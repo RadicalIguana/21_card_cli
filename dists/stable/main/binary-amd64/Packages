@@ -1,14 +1,14 @@
 Package: 21card
-Version: 1.0.0
+Version: 1.1.0
 Architecture: amd64
 Depends:
 Maintainer: RadicalIguana <d.lapsar16@gmail.com>
 Priority: optional
 Section: base
-Filename: pool/main/2/21card/21card_1.0.0_amd64.deb
-Size: 1081918
-SHA256: 74c9d8813e8b242a011f8ab95aa1f174ec1fd4a87e0cd890f8602d18b9c9e93b
-SHA1: e3da9c7f62a776e5502a19af9856fadcd922982d
-MD5sum: e3d6c75e9a97d640b5bf50efb3498b0c
+Filename: pool/main/2/21card/21card_1.1.0_amd64.deb
+Size: 1085500
+SHA256: 883d294b20ecb3730ae20f458f4437272e0c6759d1cba95a572ba558efb4f548
+SHA1: 547c30927e11da9e5671721c49b0fc963fad634f
+MD5sum: ca5736874649c25b4a9840040c761c96
 Description: My simple Go cli app
 

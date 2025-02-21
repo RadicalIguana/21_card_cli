@@ -10,5 +10,5 @@ var (
 )
 
 func main() {
-	fmt.Println("Hello, Gays!")
+	fmt.Println("Hello, Gay!")
 }
