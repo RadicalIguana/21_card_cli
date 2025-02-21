@@ -2,4 +2,4 @@ Component: main
 Origin: 21card
 Label: 21card
 Architecture: amd64
-Description: My 21 card APT repo
+Description: My custom APT repository

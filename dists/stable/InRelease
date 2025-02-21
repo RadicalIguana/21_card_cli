@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: 21card
 Label: 21card
 Codename: stable
-Date: Fri, 21 Feb 2025 15:34:06 UTC
+Date: Fri, 21 Feb 2025 15:42:10 UTC
 Architectures: amd64
 Components: main
-Description: My 21 card APT repo
+Description: My custom APT repository
 MD5Sum:
- b4f8fe60c63eecfec472261abda3e2d9 404 main/binary-amd64/Packages
- d042d2f960bf313d56c90608e4c89ad4 316 main/binary-amd64/Packages.gz
- 99eaec997568389c3ea6463721315877 98 main/binary-amd64/Release
+ 3d9b9dbd38da50ac81f692496f761072 397 main/binary-amd64/Packages
+ f1cda1e0237fdd39236ef83513285dd4 312 main/binary-amd64/Packages.gz
+ 240681c38453dd0e800c2fabdb325b8d 103 main/binary-amd64/Release
 SHA1:
- 96ae2ed4b5501ff40d2b2a41a8fc9e62f1f3e689 404 main/binary-amd64/Packages
- 547e722c7ac7306cdb6e47b2937e8886d422cc2a 316 main/binary-amd64/Packages.gz
- 80e063fd2674126c6a8db7aed05df14452e11ba3 98 main/binary-amd64/Release
+ 66b01a9ae0146240e129d2d891d1e7adf0386667 397 main/binary-amd64/Packages
+ 2a0ccf9b016d49ec87df77601f48a9d8718632d3 312 main/binary-amd64/Packages.gz
+ 78b6fa5971da3d8b661d6ae2972c152a615c4a07 103 main/binary-amd64/Release
 SHA256:
- 4a15398b0988fa77dcf9104f0776a329e8a798b064a0b1969ab9b41269a36ae6 404 main/binary-amd64/Packages
- 414c6b763b424f0756f3b928d555ae5499d4a87064257d2983141f7f7fd69479 316 main/binary-amd64/Packages.gz
- 6d061636288f7a2d57dac3d061760637e29c5642ffb53cb54f65e48438c78142 98 main/binary-amd64/Release
+ f7d79bbdc0cb7a99abb8e25e2fa98b8bf5e7a52434214a5fb9b204f3b45d1fd4 397 main/binary-amd64/Packages
+ 94a021c166646b1ca13da04edbabe9ee5a049d1c6a1fdfc3d7ebcd02ed4e9980 312 main/binary-amd64/Packages.gz
+ 4974e6752e005146d871dce151341a8813d31ae0aae61c7b98243f025a92e20f 103 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEERDA6n2OyrzsCAZV7a4G/VF2lUnwFAme4nO8ACgkQa4G/VF2l
-UnwYgg/+JxODssPuim2cNq1dL15sEBwWHLkrp/jdl/7LiddLQVIcYT81xeNZVMW6
-HcDj3YH1pfrgJzOsTUcP9s3/cG3NcfF5xjPe4JWTAYUaD+LLRR+VogLrbUg3/PBW
-e8M8oIq3ne0TXoA9Yv8xPSz8fVSHRIrgheR46658gMxbVp3MGEcNfViJP4EhQoyy
-231qxcE/Uw1CEtuRdhLt0ghRLAjPWyPbAre9yU2jB6SOVj0HtAmETOht6UVjCy99
-pKKTCM2nwSancdcR/r3/aT4SyUw7yJOFrYqMopyl6E83zX5J5LsV1/0u9V5KhKDg
-zSF67bK3bTBrkhXuAQvHLKiAW6xPE1YBRRz6EnwE/oZEL5JIuyHoNma3KQBOAZYj
-yITzcI7lh5fwVEgjJ2WNKVmrfxnz/8e4ic7FpS2PD+O5AkK/O21IUaAalZ/x94OR
-xWWtJWVigBoyW/Xnd/PuHIBcqnLmraqZD6td3Jwxtxlskomt6y6BWXt6NVNU+LY8
-ndUcT/qMd1n255XTRRNVRjeFGyfShTJK17amisX8CSMPsE1DgJdWFPXaBzTcUQrM
-X3C0sScjBblMOEtLE558I1Ogbmubez2V+JMd7FcU/78xgqqb9mnx9wbOGUwL7Fb/
-TSdOZ7FOXmVO5+zibEjnOm4ASCPpGNCmYpIEqjs6yc+OqaJ1NYY=
-=nKnw
+iQIzBAEBCgAdFiEERDA6n2OyrzsCAZV7a4G/VF2lUnwFAme4ntMACgkQa4G/VF2l
+UnzTpg/9E7TkU/geXp+K9L1/NLIPAvdL1G5AOJghy8s8BteuGmcvYF384ex8/bxm
++i/mMw1MK/v58ykuGSMiEzPGVqmM6hV5QKCYxP1rTN3jMVU5lRKkV6rDvO92O07j
+riXtb1SIkyqFueFMWxa/8CPXRMWT9244Iko8XMrwVFOTVAkhEaiJcRiopKuLzs8e
+todT58gPTAC51QJACaGppnA04nxTA+vgbuvJ+aJ5nIqHXOS/Gi+rc7r1mKP1Vhh8
+jkN4u0vfIsn+mTSBgOm6R4zj9Aj2JkFfPFP7TGqaWQ4Q4MX/b4mNzA3u0nqK+nKd
+GP5N7z5a+o/snD8Rkf27MxfcT1YYXIQICyORrpxGf9v9dCjLjW35RY/ngXwFI6Mt
+AqQwdArMLou2+oMdpzOYP5X2/rITT8A4vge4oXNJ+ZgY9Zea3IOqupNgvIfBA9GE
+L0laxXxe8daF1ZXxkwhUyzEss2x36rpS/u0qhE1NfTmmM5K76BqWknEGdy3UveA8
+HwjqeUytQT34qcmABqMdKSUc7Mg/sJfdSJopvTfbIFerJQTTWarFT92/7+pGGr1J
+83lKTBnVHfiges+Ox7FO3ali+344VnLcIfEuph0zPmurmnirV6YsULtF+J7TclP1
+paQnPuF4usJcweQizbhe/rtOjlD3SYEzEcrQsLTr+3+JT9E6a80=
+=gHEv
 -----END PGP SIGNATURE-----

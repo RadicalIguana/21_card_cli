@@ -3,5 +3,5 @@ Label: 21card
 Codename: stable
 Architectures: amd64
 Components: main
-Description: My 21 card APT repo
+Description: My custom APT repository
 SignWith: yes
