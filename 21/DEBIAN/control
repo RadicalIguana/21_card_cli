@@ -1,0 +1,9 @@
+Package: 21card
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends:
+Maintainer: RadicalIguana <d.lapsar16@gmail.com>
+Description: My simple Go cli app
+

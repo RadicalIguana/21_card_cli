@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: 21card
+Label: 21card
+Codename: stable
+Date: Fri, 21 Feb 2025 15:11:18 UTC
+Architectures: amd64
+Components: main
+Description: My 21 card APT repo
+MD5Sum:
+ 706af45ed818b57f854ec7dbcc6551ed 404 main/binary-amd64/Packages
+ c921eb4712a859f89b062a1057420502 316 main/binary-amd64/Packages.gz
+ 99eaec997568389c3ea6463721315877 98 main/binary-amd64/Release
+SHA1:
+ ccd866516d40e352900cdf35dc184a7eabaea91c 404 main/binary-amd64/Packages
+ 8913a414bc50edd20e5bc1ee7116d39af4a7fdfc 316 main/binary-amd64/Packages.gz
+ 80e063fd2674126c6a8db7aed05df14452e11ba3 98 main/binary-amd64/Release
+SHA256:
+ bb4e3ec3dde5091928788e4c15cd706957fdc5cb364353952cd087c689c528d6 404 main/binary-amd64/Packages
+ 3ba1af3a86de372e108c1a94e4fb6ec9181c614178a119703889a8fa45a295ad 316 main/binary-amd64/Packages.gz
+ 6d061636288f7a2d57dac3d061760637e29c5642ffb53cb54f65e48438c78142 98 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERDA6n2OyrzsCAZV7a4G/VF2lUnwFAme4l54ACgkQa4G/VF2l
+UnzK7xAAtqhvaCNeaXoSFeLSSnC+tt4gtGoPAzCEt3CBOdAxBojXdBnEexYKEKz7
+m1EmfkDZFHc2GQFTxYGBzkNO9/xNJHlzKDBzMyIceOXEpItEXmTeGWlQWJwed0aX
+VHqb+OWdOc49YQqeWfzKhknWEvvoe8ybGKDXz9tu5bZxBrOdTFuVO4CESIGROu6J
+M5Ud7DccgTvRrfCTsITnQdjpzHKIxM9dl1uF6RQkZP0EC/IUUvcfaPDdodKYELO2
+njTg6E4dyxHPb4/+cF1iPS1hSfLwmiVdcX/omNZcsI844E0KhL/Qy6bfljUO4531
+yA291zwC3Zl83iqQYA6DV9Q1LZ1YxzTq2KwdXmq3CzXvrTZS6big6KwS+b0gaJub
+AeSXKeXPe5tBXa+gkTqYMJiT7HDVpJH+DRtrJnH7fy3GbIqkw6EayKfA9nLZENO7
+6XfvC0NT3ZhL/Bwc5XDrIlKyfwu20Tphzu88zk5QASN1CLMz9q+L9ceSG/7CceTq
+qDHsR4nQ69fnwxVRGLy5krEoRK2EpthX+Qg/aOGUljlvpeejvApIiZNBhUY+8nzV
+oSFT6yPjbcMKwOUrV4YT/t1rqtogS1QZHuPtOUf6idNI4HSrYVZqKGp/l8RzKVuB
+4w01PwbL+fbZ5J47rJLO7beJtAzJhoyODCfUany3zhUD0XKEv90=
+=+PDV
+-----END PGP SIGNATURE-----
