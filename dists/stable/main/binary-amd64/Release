@@ -1,0 +1,5 @@
+Component: main
+Origin: card
+Label: card
+Architecture: amd64
+Description: My custom APT repository

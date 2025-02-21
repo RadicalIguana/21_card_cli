@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: card
+Label: card
+Codename: stable
+Date: Fri, 21 Feb 2025 15:55:27 UTC
+Architectures: amd64
+Components: main
+Description: My custom APT repository
+MD5Sum:
+ 5f00853e43b3175536ab3185ae63b72c 391 main/binary-amd64/Packages
+ d9e9581fc1b41c55e823aa573d673f42 310 main/binary-amd64/Packages.gz
+ 7c2ed53e70d20e05e015ca386cd66d5e 99 main/binary-amd64/Release
+SHA1:
+ 329b478477e93fa069b49a4354cd8f2fca2729ce 391 main/binary-amd64/Packages
+ 18b34f4120a0e3dbf88fa8b03a403ce25c519730 310 main/binary-amd64/Packages.gz
+ 810bf2fa71b55e6d2b0030180ecd4ab0e2b6adf0 99 main/binary-amd64/Release
+SHA256:
+ 35b4e06c151c33759816d3f68ddc687ffd4d0265021fab9eb7e11d1ca2daf425 391 main/binary-amd64/Packages
+ 9209f856c8fbe3a553479951e1c977bab21512d99c9d50078cd0f50077cd92f2 310 main/binary-amd64/Packages.gz
+ 2bd60fed0e043360b3412b0e031e3d0c8d30d3f43964507ce883e1df66651713 99 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERDA6n2OyrzsCAZV7a4G/VF2lUnwFAme4ofUACgkQa4G/VF2l
+Unw5kw/8DuIpnQ7DUi3J5e6TVSw9jHogR/eCg5N31uhPpn6xkGOFPo0tPpFxt/z0
+ogjxp1LeayEqc6nWkEI5NwZM3SU+NeitklQht6xJa26ta+yj73nPmrqGykIUkYTe
+O/kv3jvT0lZkOj81+Svvi9WTa9Axbssx2XDihvw0NCwUm+CuO21XjhYhLFp0dpSS
+qAMDwQ5SCLn3GZImVHRN7mOVux4QcQtRW2cPZypXq+TyuH2LOa38bHYkV8jRrlQY
+Es2YwmF44hMWErRMzMnkCEE4jCT8vPFnVZk2+j+XERh7W5F5a1cKMtxCpSVreB32
+df9tQhezP4tUp1X9NnxCFP3JgN0iW5B6hyRvTtIW5J+DOQqCRGlpiKni/Rr3VDxX
+QseC9oo7ADoadGVOYXSHqw40+DXFbG+Wv9bQFC4k9fCIggc4nq8ideFGx6bZ5S0x
+01HmXNNCyZ2Hk9u41Wab2ingPh1nNX+rKG6OgR/4d4WtKD+3VliwFkS5mVKdRucV
+SS6xig/b4GkyBcBbh1h7Gi9o5kHZdTfXBKBj+CU3+y9BRub7zItfOna8FbFG8LDg
+yi/LbQ2dbJJTT1tNAjKYHr+SJpwSqaDW9jloi/EySAQLsryjMFdEDMBiutFQTCXh
+m88VG0eizGbBLljIxHy1Y1XmN5ktjj99ioS1EYtzuLUOZBy+fxI=
+=3CNV
+-----END PGP SIGNATURE-----

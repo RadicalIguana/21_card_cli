@@ -1,0 +1,7 @@
+Origin: card
+Label: card
+Codename: stable
+Architectures: amd64
+Components: main
+Description: My custom APT repository
+SignWith: yes

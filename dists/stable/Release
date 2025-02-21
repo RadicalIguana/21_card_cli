@@ -1,0 +1,19 @@
+Origin: card
+Label: card
+Codename: stable
+Date: Fri, 21 Feb 2025 15:55:27 UTC
+Architectures: amd64
+Components: main
+Description: My custom APT repository
+MD5Sum:
+ 5f00853e43b3175536ab3185ae63b72c 391 main/binary-amd64/Packages
+ d9e9581fc1b41c55e823aa573d673f42 310 main/binary-amd64/Packages.gz
+ 7c2ed53e70d20e05e015ca386cd66d5e 99 main/binary-amd64/Release
+SHA1:
+ 329b478477e93fa069b49a4354cd8f2fca2729ce 391 main/binary-amd64/Packages
+ 18b34f4120a0e3dbf88fa8b03a403ce25c519730 310 main/binary-amd64/Packages.gz
+ 810bf2fa71b55e6d2b0030180ecd4ab0e2b6adf0 99 main/binary-amd64/Release
+SHA256:
+ 35b4e06c151c33759816d3f68ddc687ffd4d0265021fab9eb7e11d1ca2daf425 391 main/binary-amd64/Packages
+ 9209f856c8fbe3a553479951e1c977bab21512d99c9d50078cd0f50077cd92f2 310 main/binary-amd64/Packages.gz
+ 2bd60fed0e043360b3412b0e031e3d0c8d30d3f43964507ce883e1df66651713 99 main/binary-amd64/Release
