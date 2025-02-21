@@ -1,7 +1,0 @@
-Origin: 21card
-Label: 21card
-Codename: stable
-Architectures: amd64
-Components: main
-Description: My custom APT repository
-SignWith: yes
